@@ -1,1 +1,23 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jTPl76Oi)
+# SWAPI Starwars wiki
+
+A Star Wars API project built to interact with and explore data from the Star Wars universe.
+
+This project provides access to Star Wars resources such as characters, planets, films, species, vehicles, and starships through a simple API interface.
+
+## Features
+
+- Star Wars character data
+- Planet information
+- Film details
+- Species information
+- Vehicle and starship data
+
+## Tech Stack
+
+Built with:
+
+- React
+- Typescript
+- React bootstrap
+- SCSS
+
