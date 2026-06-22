@@ -1,0 +1,8 @@
+$enable-grid-classes: false;
+$enable-cssgrid: true;
+
+@import "bootstrap/scss/bootstrap";
+
+.image-blur {
+    filter: blur(5px);
+}
